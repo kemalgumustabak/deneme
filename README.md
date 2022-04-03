@@ -23,7 +23,11 @@ deneme yazisi ilk projeye basladım.
 
 *italik* **koyu** ***bolditalik***
 
+---
+
 [link ekleme](https://typora.io)
+
+---
 
 ![görsel ekleme](https://store.donanimhaber.com/16/a9/0b/16a90baeeb38274295269367f8758d8e.jpg)
 
