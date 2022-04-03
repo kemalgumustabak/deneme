@@ -37,7 +37,6 @@ print("hello meta")
 ```javascript
 console.log("hello verse")
 
-function helloMetaverse () {console.log("hello verse")
-}
+function helloMetaverse () {console.log("hello verse")}
 
 ```
