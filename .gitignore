@@ -11,8 +11,16 @@ img/
 #videos
 
 .mp4
+.m4v
 
 # log
 
 *.log
 password.txt
+
+
+
+
+# ignore
+
+
