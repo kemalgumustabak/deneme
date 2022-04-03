@@ -1,6 +1,6 @@
 # DENEME
 
-## Alt Baslik
+## İlk Başlık
 
 deneme yazisi ilk projeye basladım.
 
