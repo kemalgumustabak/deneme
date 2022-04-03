@@ -31,6 +31,6 @@ deneme yazisi ilk projeye basladım.
 
 ![görsel ekleme](https://store.donanimhaber.com/16/a9/0b/16a90baeeb38274295269367f8758d8e.jpg)
 
-'''
-print ("hello meta")
+'''python
+print("hello meta")
 '''
